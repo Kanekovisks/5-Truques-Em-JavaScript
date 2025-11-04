@@ -6,24 +6,24 @@
 ---
 
 - [Transformar String em Array](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/StringToArray.js)
-![StringToArray](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/StringToArray.png)
+<img src="https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/StringToArray.png" alt="StringToArray">
 
 ---
 
 - [Transformar Objeto em Array](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjToArray.js)
-![ObjToArray](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjToArray.png)
+<img src="https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjToArray.png" alt="ObjToArray">
 
 ---
 
 - [Clonar Arrays](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrayClone.js)
-![ArrayClone](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrayClone.png)
+<img src="https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrayClone.png" alt="ArrayClone">
 
 ---
 
 - [Clonar Objetos](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjClone.js)
-![ObjClone](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjClone.png)
+<img src="https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjClone.png" alt="ObjClone">
 
 ---
 
 - [Arrow Functions](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrowFunction.js)
-![ArrowFunction](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrowFunction.png)
+<img src="https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrowFunction.png" alt="ArrowFunction">
